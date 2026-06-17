@@ -13,7 +13,7 @@ const menuItems = [
     path: "/knowledge",
   },
   {
-    name: "AI Workspace",
+    name: "Chat Workspace",
     path: "/ai-workspace",
   },
   {

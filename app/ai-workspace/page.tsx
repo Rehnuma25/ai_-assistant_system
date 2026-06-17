@@ -3,7 +3,7 @@ export default function AIWorkspacePage() {
     <div>
 
       <h1 className="text-4xl font-bold text-black mb-6">
-        AI Workspace
+        Chat Workspace
       </h1>
 
       <div className="grid grid-cols-12 gap-6 h-[700px]">
@@ -45,7 +45,7 @@ export default function AIWorkspacePage() {
           <div className="p-5 border-b">
 
             <h2 className="font-bold text-xl">
-              Secure AI Assistant
+              System Intelligence
             </h2>
 
           </div>
