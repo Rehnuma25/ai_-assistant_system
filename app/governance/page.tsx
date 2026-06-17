@@ -2,7 +2,7 @@ export default function GovernancePage() {
   return (
     <div>
       <h1 className="text-4xl font-bold mb-8">
-        AI Governance Dashboard
+        Governance Dashboard
       </h1>
 
       <div className="grid grid-cols-3 gap-6">
@@ -35,7 +35,7 @@ export default function GovernancePage() {
           <p>PII Protection Enabled</p>
         </div>
 
-        <div className="bg-cyan-100 p-6 rounded-2xl shadow">
+        <div className="bg-blue-300 p-6 rounded-2xl shadow">
           <h3 className="font-bold text-cyan-700">
             Human Oversight
           </h3>

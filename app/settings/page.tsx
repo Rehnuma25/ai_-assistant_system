@@ -14,7 +14,7 @@ export default function SettingsPage() {
 
           <div className="space-y-4">
             <div className="bg-slate-100 p-4 rounded-xl">
-              Admin Profile
+              Admin/User/Manager Profile
             </div>
 
             <div className="bg-slate-100 p-4 rounded-xl">
@@ -47,7 +47,7 @@ export default function SettingsPage() {
             </div>
 
             <div className="bg-white/20 p-4 rounded-xl">
-              Access Control
+              Access Control/- Account Security
             </div>
 
           </div>

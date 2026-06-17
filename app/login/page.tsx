@@ -15,8 +15,8 @@ export default function LoginPage() {
       <div className="bg-white w-full max-w-2xl rounded-[40px] shadow-2xl p-10">
 
         <div className="flex justify-center mb-4">
-          <div className="w-20 h-20 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 flex items-center justify-center text-white text-3xl font-bold">
-            AI
+          <div className="w-20 h-25 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 flex items-center justify-center text-white text-3xl font-bold">
+            DIs
           </div>
         </div>
 

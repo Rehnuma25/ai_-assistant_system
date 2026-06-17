@@ -119,6 +119,13 @@ export default function DashboardPage() {
                 Idle
               </span>
             </div>
+            
+            <div className="flex justify-between">
+              <span>User 4</span>
+              <span className="text-green-500 font-semibold">
+                Online
+              </span>
+            </div>
 
           </div>
         </div>
@@ -136,19 +143,19 @@ export default function DashboardPage() {
           <div className="space-y-4">
 
             <div className="p-4 bg-slate-100 rounded-xl">
-              Annual_Report_2025.pdf
+              Annual-Report-2025.pdf
             </div>
 
             <div className="p-4 bg-slate-100 rounded-xl">
-              HR_Policy_Guide.pdf
+              HR-Policy-Guide.pdf
             </div>
 
             <div className="p-4 bg-slate-100 rounded-xl">
-              Security_Standards.pdf
+              Security-Standards.pdf
             </div>
 
             <div className="p-4 bg-slate-100 rounded-xl">
-              Research_Data.pdf
+              Research-Data.pdf
             </div>
 
           </div>

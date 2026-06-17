@@ -29,7 +29,7 @@ export default function RootLayout({
 
               <Navbar />
 
-              <main className="p-8 text-slate-900">
+             <main className="p-8 text-slate-900 bg-[#ccffff] min-h-screen">
                 {children}
               </main>
 

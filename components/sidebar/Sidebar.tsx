@@ -38,10 +38,10 @@ export default function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="w-72 bg-slate-900 text-white p-6">
+   <aside className="w-72 bg-[#3d73ea] text-white p-6">
 
       <h1 className="text-2xl font-bold mb-10">
-         Document Intelligence Assistant
+         Document Intelligence System
       </h1>
 
       <nav className="space-y-2">
@@ -52,7 +52,7 @@ export default function Sidebar() {
             href={item.path}
             className={`block rounded-lg px-4 py-3 transition ${
               pathname === item.path
-                ? "bg-blue-600"
+                ? "bg-[#ff8080] text-white"
                 : "hover:bg-slate-800"
             }`}
           >
