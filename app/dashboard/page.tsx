@@ -30,7 +30,7 @@ export default function DashboardPage() {
           </h1>
 
           <p className="text-slate-500 mt-2 text-lg">
-            Enterprise Secure AI Platform
+             Secure Document Platform
           </p>
         </div>
 
@@ -135,7 +135,7 @@ export default function DashboardPage() {
       {/* Documents + Analytics */}
       <div className="grid grid-cols-2 gap-6 mb-8">
 
-        <div className="bg-white rounded-3xl p-8 shadow-xl">
+        <div className="bg-[#00E1FF] rounded-3xl p-8 shadow-xl">
           <h2 className="text-3xl font-bold mb-6">
             Top Uploaded Documents
           </h2>
@@ -161,7 +161,7 @@ export default function DashboardPage() {
           </div>
         </div>
 
-        <div className="bg-white rounded-3xl p-8 shadow-xl">
+        <div className="bg-[#f7b8f7] rounded-3xl p-8 shadow-xl">
           <h2 className="text-3xl font-bold mb-6">
             Security Events Timeline
           </h2>
